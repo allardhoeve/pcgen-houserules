@@ -1,0 +1,31 @@
+CAMPAIGN:Houserules
+GAMEMODE:Pathfinder
+TYPE:Houserules
+RANK:3
+STATUS:ALPHA
+GENRE:Fantasy
+BOOKTYPE:Supplement
+SETTING:Generic
+PRECAMPAIGN:1,BOOKTYPE=Core Rules,BOOKTYPE=Complete Core
+PUBNAMELONG:Allard Hoeve
+PUBNAMESHORT:Allard Hoeve
+PUBNAMEWEB:http://github.com/allardhoeve/
+SOURCELONG:Houserules
+SOURCESHORT:House
+SOURCEWEB:http://github.com/allardhoeve/
+SOURCEDATE:2012-09
+ISOGL:YES
+
+DESC:Houserules
+
+COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+
+# Do not remove the EXTRAFILE comment.
+#EXTRAFILE:OGL.txt
+
+# Data Files
+ABILITY:house_abilities_archetypes.lst
+
+#
+# End
+#
