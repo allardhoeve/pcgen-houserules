@@ -16,7 +16,7 @@ SOURCEWEB:http://github.com/allardhoeve/
 SOURCEDATE:2012-09
 ISOGL:YES
 
-DESC:Houserules
+DESC:Houserules WotW AAH
 
 COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
@@ -25,6 +25,7 @@ COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
 # Data Files
 ABILITY:house_abilities_archetypes.lst
+FEAT:house_feats.lst
 
 #
 # End
