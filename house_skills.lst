@@ -1,0 +1,2 @@
+Profession (Torturer)			KEYSTAT:WIS	USEUNTRAINED:NO					TYPE:Wisdom.Profession					SOURCEPAGE:p.103											BONUS:SKILL|Profession (Torturer)|3|TYPE=ClassSkill|PRECSKILL:1,Profession (Torturer)|PRESKILL:1,Profession (Torturer)=1
+
