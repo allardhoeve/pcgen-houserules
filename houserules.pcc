@@ -28,6 +28,7 @@ ABILITY:house_abilities_archetypes.lst
 FEAT:house_feats.lst
 SKILL:house_skills.lst
 EQUIPMENT:house_equip_armorshields_specific.lst
+EQUIPMENT:house_equip_scrolls.lst
 
 #
 # End
