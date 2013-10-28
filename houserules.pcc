@@ -25,10 +25,12 @@ COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
 # Data Files
 ABILITY:house_abilities_archetypes.lst
+CLASS:house_classes.lst
 FEAT:house_feats.lst
 SKILL:house_skills.lst
 EQUIPMENT:house_equip_armorshields_specific.lst
 EQUIPMENT:house_equip_scrolls.lst
+TEMPLATE:house_templates.lst
 
 #
 # End
