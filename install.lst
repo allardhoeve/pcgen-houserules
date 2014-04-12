@@ -1,0 +1,12 @@
+CAMPAIGN:Henks Houserules
+MINVER:6.2.0
+MINDEVVER: 6.2.0
+DEST:VENDORDATA
+COPYRIGHT:Blaap. Doe dan kopieren.
+INFOTEXT:Blaap. Doe dan info tekst zijn.
+SOURCELONG:Houserules by Henk Slaaf
+SOURCESHORT:HenksHouse
+SOURCEWEB:https://github.com/allardhoeve/pcgen-houserules
+SOURCEDATE:2014-04
+PUBNAMELONG:Henk Slaaf
+PUBNAMESHORT:HenkS
