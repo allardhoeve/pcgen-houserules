@@ -1,6 +1,6 @@
 Angelskin Shirt	TYPE:Magic.Wondrous.LesserMedium.Shirt	COST:1000	WT:0	SOURCEPAGE:p.1	BONUS:VAR|AuraEvilLVL|-10	DESC:The preserved skin of an angel retains a portion of celestial grace and has been preserved into this fine leather shirt. Angelskin radiates a moderate good aura that masks malign auras. Any evil aura radiated by the wearer is reduced in strength by 10 Hit Dice. Auras reduced below 1 Hit Die can't be detected by means such as detect evil; the creature doesn't detect as evil, though this has no effect on other aspects of the creature's alignment. For example, a weak chaotic creature wearing angelskin armor detects as chaotic, but not evil.
 Circlet of Disguise	TYPE:Magic.Wondrous.Headgear	COST:1800	WT:0.02	SOURCEPAGE:p.516
-Circlet of Disguise (Wis)	TYPE:Magic.Wondrous.Headgear	COST:6700	WT:0.02	SOURCEPAGE:p.516	BONUS:STAT|WIS|2
-Circlet of Disguise (Int)	TYPE:Magic.Wondrous.Headgear	COST:6700	WT:0.02	SOURCEPAGE:p.516	BONUS:STAT|INT|2
-Circlet of Disguise (Cha)	TYPE:Magic.Wondrous.Headgear	COST:6700	WT:0.02	SOURCEPAGE:p.516	BONUS:STAT|CHA|2
+Circlet of Disguise (Wis)	TYPE:Magic.Wondrous.Headgear	COST:6700	WT:0.02	SOURCEPAGE:p.516	BONUS:STAT|WIS|2|TYPE=Profane
+Circlet of Disguise (Int)	TYPE:Magic.Wondrous.Headgear	COST:6700	WT:0.02	SOURCEPAGE:p.516	BONUS:STAT|INT|2|TYPE=Profane
+Circlet of Disguise (Cha)	TYPE:Magic.Wondrous.Headgear	COST:6700	WT:0.02	SOURCEPAGE:p.516	BONUS:STAT|CHA|2|TYPE=Profane
 
