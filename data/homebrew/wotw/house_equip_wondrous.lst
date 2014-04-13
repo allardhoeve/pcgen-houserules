@@ -1,0 +1,7 @@
+Angelskin Shirt														
+	TYPE:Magic.Wondrous.LesserMedium.Shirt																							
+	COST:1000
+	WT:0																							
+	SOURCEPAGE:p.1																														
+	BONUS:AuraEvilLVL|-10
+	DESC:The preserved skin of an angel retains a portion of celestial grace and has been preserved into this fine leather shirt. Angelskin radiates a moderate good aura that masks malign auras. Any evil aura radiated by the wearer is reduced in strength by 10 Hit Dice. Auras reduced below 1 Hit Die can't be detected by means such as detect evil; the creature doesn't detect as evil, though this has no effect on other aspects of the creature's alignment. For example, a weak chaotic creature wearing angelskin armor detects as chaotic, but not evil.
