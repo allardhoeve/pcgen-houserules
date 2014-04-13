@@ -30,6 +30,7 @@ FEAT:house_feats.lst
 SKILL:house_skills.lst
 EQUIPMENT:house_equip_armorshields_specific.lst
 EQUIPMENT:house_equip_scrolls.lst
+EQUIPMENT:house_equip_wondrous.lst
 TEMPLATE:house_templates.lst
 SPELL:house_spells.lst
 
