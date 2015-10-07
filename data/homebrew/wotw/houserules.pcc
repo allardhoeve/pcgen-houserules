@@ -6,7 +6,7 @@ STATUS:ALPHA
 GENRE:Fantasy
 BOOKTYPE:Supplement
 SETTING:Generic
-PRECAMPAIGN:1,BOOKTYPE=Core Rules,BOOKTYPE=Complete Core
+PRECAMPAIGN:1,BOOKTYPE=Core Rules,BOOKTYPE=Complete Core=Pathfinder RPG for Players
 PUBNAMELONG:Allard Hoeve
 PUBNAMESHORT:Allard Hoeve
 PUBNAMEWEB:http://github.com/allardhoeve/
