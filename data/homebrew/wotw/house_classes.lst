@@ -1,3 +1,24 @@
-
-CLASS:Antipaladin.MOD	PRE:.CLEAR	PREMULT:1,[PREALIGN:CE],[PREMULT:2,[PREALIGN:LE,NE,CE],[PREABILITY:1,CATEGORY=Archetype,TYPE.AntipaladinAlignment]]
-
+## Class Name		Hit Dice	Type			Class Type		Abbreviation	Max Level	Source Page		Define		Combat bonus										Save bonus																						Modify VAR
+#CLASS:Arcane Savant	HD:6		TYPE:PC.Prestige	CLASSTYPE:PC	ABB:PaS		MAXLEVEL:7	SOURCEPAGE:p.60	DEFINE:PaSLVL|0	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")/2|TYPE=Base.REPLACE	BONUS:SAVE|BASE.Will|(classlevel("APPLIEDAS=NONEPIC")+1)/2	BONUS:SAVE|BASE.Fortitude,BASE.Reflex|(classlevel("APPLIEDAS=NONEPIC")+1)/3	BONUS:VAR|PaSLVL|CL
+## Class Name		Required Feat								Required Skill									Req. Spell Type
+#CLASS:Arcane Savant	PREABILITY:1,CATEGORY=Feat,TYPE.ItemCreation	PRESKILL:3,Knowledge (Arcana)=5,Spellcraft=5,Use Magic Device=5	PRESPELLTYPE:1,Arcane=2,Divine=2
+## Class Name		Skill Pts/Lvl	Class Skill
+#CLASS:Arcane Savant	STARTSKILLPTS:2	CSKILL:Appraise|TYPE=Craft|TYPE=Knowledge|Linguistics|Perception|TYPE=Profession|Spellcraft|Use Magic Device
+#1	BONUS:VAR|PaSSkillBonus|max(1,CL/2)
+#1	ABILITY:Special Ability|AUTOMATIC|Pathfinder Savant ~ Master Scholar
+#1	ADD:SPELLCASTER|ANY
+#1	BONUS:VAR|PaSEsotericSpells|CL
+#2	ABILITY:Special Ability|AUTOMATIC|Pathfinder Savant ~ Adept Activation
+#2	ABILITY:Special Ability|AUTOMATIC|Pathfinder Savant ~ Esoteric Magic|Pathfinder Savant ~ Glyph Finding
+#3	ADD:SPELLCASTER|ANY
+#3	ABILITY:Special Ability|AUTOMATIC|Pathfinder Savant ~ Scroll Master
+#4	BONUS:VAR|PaSIdentifyTimes|CL/2
+#4	ADD:SPELLCASTER|ANY
+#4	ABILITY:Special Ability|AUTOMATIC|Pathfinder Savant ~ Quick Identification
+#5	BONUS:VAR|PaSSaveBonus|CL
+#5	ADD:SPELLCASTER|ANY
+#6	BONUS:VAR|PaSAnalyzeDuration|CL
+#6	ADD:SPELLCASTER|ANY
+#6	ABILITY:Special Ability|AUTOMATIC|Arcane Savant ~ Insightful Scroll
+#7	ADD:SPELLCASTER|ANY
+#7	ABILITY:Special Ability|AUTOMATIC|Pathfinder Savant ~ Silence Master

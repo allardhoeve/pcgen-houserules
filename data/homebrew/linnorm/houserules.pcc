@@ -1,4 +1,4 @@
-CAMPAIGN:Houserules
+CAMPAIGN:Linnorm Houserules
 GAMEMODE:Pathfinder
 PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core
 TYPE:Houserules
@@ -17,7 +17,7 @@ SOURCEWEB:http://github.com/allardhoeve/
 SOURCEDATE:2012-09
 ISOGL:YES
 
-DESC:Houserules WotW AAH
+DESC:Houserules Linnorm Kings AAH
 
 COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
@@ -25,16 +25,7 @@ COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 #EXTRAFILE:OGL.txt
 
 # Data Files
-ABILITY:house_abilities_archetypes.lst
-ABILITY:house_abilities_class.lst
-CLASS:house_classes.lst
-ABILITY:house_feats.lst
-SKILL:house_skills.lst
-EQUIPMENT:house_equip_armorshields_specific.lst
-EQUIPMENT:house_equip_scrolls.lst
-EQUIPMENT:house_equip_wondrous.lst
-TEMPLATE:house_templates.lst
-SPELL:house_spells.lst
+ABILITY:house_abilities_race_arg.lst
 
 #
 # End
