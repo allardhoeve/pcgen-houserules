@@ -1,2 +1,3 @@
-No deformities	KEY:Ogrekin ~ No deformities	CATEGORY:Special Ability	TYPE:SpecialQuality.OgrekinDisadvantageousDeformity.OgrekinAdvantageousDeformity	DESC:You have no specific deformities.
+No Deformities	KEY:Ogrekin ~ No Deformities Beneficial	CATEGORY:Special Ability	TYPE:SpecialQuality.OgrekinBeneficialDeformity	DESC:You have no specific deformities.	VISIBLE:NO
+No Deformities	KEY:Ogrekin ~ No Deformities Disadvantageous	CATEGORY:Special Ability	TYPE:SpecialQuality.OgrekinDisadvantageousDeformity	DESC:You have no specific deformities.	VISIBLE:NO
 
