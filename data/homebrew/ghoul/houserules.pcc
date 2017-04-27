@@ -1,0 +1,32 @@
+CAMPAIGN:Ghoul Houserules
+GAMEMODE:Pathfinder
+PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core
+TYPE:Houserules
+RANK:3
+STATUS:ALPHA
+GENRE:Fantasy
+BOOKTYPE:Supplement
+SETTING:Generic
+PRECAMPAIGN:1,BOOKTYPE=Core Rules,BOOKTYPE=Complete Core=Pathfinder RPG for Players
+PUBNAMELONG:Allard Hoeve
+PUBNAMESHORT:Allard Hoeve
+PUBNAMEWEB:http://github.com/allardhoeve/
+SOURCELONG:Houserules
+SOURCESHORT:House
+SOURCEWEB:http://github.com/allardhoeve/
+SOURCEDATE:2012-09
+ISOGL:YES
+
+DESC:Houserules Ghoul AAH
+
+COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+
+# Do not remove the EXTRAFILE comment.
+#EXTRAFILE:OGL.txt
+
+# Data Files
+FEAT:house_feats.lst
+EQUIPMOD:house_equipmods.lst
+#
+# End
+#

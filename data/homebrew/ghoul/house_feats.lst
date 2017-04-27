@@ -1,0 +1,2 @@
+Civilized Ghoulishness	PRERACE:1,Ghoul	PRESTAT:1,CHA=18	TYPE:Monster	VISIBLE:YES	DESC:Although undead, you can easily pass as living.	BONUS:VAR|ChannelResistance|2	BONUS:SITUATION|Disguise=Human|10|TYPE=Racial	BENEFIT:Your appearance is such that, while pale-skinned and gaunt, you can pass as a living humanoid of your choice. You gain a +10 racial bonus on Disguise checks made to appear human, and your channel resistance increases by +2.
+
