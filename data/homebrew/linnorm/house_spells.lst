@@ -1,0 +1,2 @@
+Infernal Healing				TYPE:Arcane.Divine	CLASSES:Cleric,Bloodrager,Magus,Sorcerer,Witch,Wizard=1						SCHOOL:Conjuration	SUBSCHOOL:Healing		DESCRIPTOR:Evil			COMPS:V, S, M	CASTTIME:1 round	RANGE:Touch				TARGETAREA:Creature touched							DURATION:1 minute								SAVEINFO:Will negates (harmless)	SPELLRES:Yes (harmless)											SOURCEPAGE:p.29DESC:Anoint a wounded creature with devil's blood or unholy water giving it fast healing 1. Does not repair silver or good damage. Target detects as evil for the duration.
+

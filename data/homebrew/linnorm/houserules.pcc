@@ -29,6 +29,9 @@ ABILITY:house_abilities_race_arg.lst
 ABILITY:house_abilities_traits.lst
 ABILITY:house_abilities_bloodrage.lst
 
+# Spells
+SPELL:house_spells.lst
+
 #
 # End
 #
