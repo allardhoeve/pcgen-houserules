@@ -1,4 +1,4 @@
-CAMPAIGN:Ghoul Houserules
+CAMPAIGN:Hell's Rebels Houserules
 GAMEMODE:Pathfinder
 PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core
 TYPE:Houserules
@@ -17,7 +17,7 @@ SOURCEWEB:http://github.com/allardhoeve/
 SOURCEDATE:2012-09
 ISOGL:YES
 
-DESC:Houserules Ghoul AAH
+DESC:Houserules Hells Rebels AAH
 
 COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
@@ -25,9 +25,8 @@ COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 #EXTRAFILE:OGL.txt
 
 # Data Files
-FEAT:house_feats.lst
-EQUIPMOD:house_equipmods.lst
-SPELL:house_spells.lst
+ABILITY:house_abilities_archetypes.lst
+ABILITY:house_abilities_class.lst
 #
 # End
 #
