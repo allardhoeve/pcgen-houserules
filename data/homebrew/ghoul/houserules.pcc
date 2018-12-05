@@ -1,13 +1,12 @@
 CAMPAIGN:Ghoul Houserules
 GAMEMODE:Pathfinder
-PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core
+PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core Rules
 TYPE:Houserules
 RANK:3
 STATUS:ALPHA
 GENRE:Fantasy
 BOOKTYPE:Supplement
 SETTING:Generic
-PRECAMPAIGN:1,BOOKTYPE=Core Rules,BOOKTYPE=Complete Core=Pathfinder RPG for Players
 PUBNAMELONG:Allard Hoeve
 PUBNAMESHORT:Allard Hoeve
 PUBNAMEWEB:http://github.com/allardhoeve/
