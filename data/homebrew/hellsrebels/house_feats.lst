@@ -1,0 +1,4 @@
+CATEGORY=FEAT|Furious Focus.MOD			ABILITY:FEAT|VIRTUAL|Furious Focus (One-Handed)|Furious Focus (Two-Handed)
+Furious Focus (One-Handed)			CATEGORY:FEAT		VISIBLE:NO										TEMPBONUS:EQ|Weapon,Melee,OneHanded;Natural|WEAPON|DAMAGE|PowerAttackDamageBase*PowerAttackModifier|TYPE=Temporary
+Furious Focus (Two-Handed)			CATEGORY:FEAT		VISIBLE:NO										TEMPBONUS:EQ|Weapon,Melee,TwoHanded;OneHanded;Natural|WEAPON|DAMAGE|(PowerAttackDamageBase*1.5)*PowerAttackModifier|TYPE=Temporary
+
