@@ -1,0 +1,14 @@
+# CVS $Revision$ $Author$ -- Fri May  3 14:36:53 2013 -- reformated by prettylst.pl v1.50 (build 19967)
+CAMPAIGN:AA Homebrew for 5e
+KEY:5e - AAH Homebrew
+
+BOOKTYPE:Homebrew
+GAMEMODE:5e
+STATUS:BETA
+TYPE:Homebrew
+SOURCELONG:Allard's 5e Homebrew
+SOURCESHORT:AAH5e
+SOURCEDATE:2020-01
+RANK:202001
+
+DEITY:deities.lst

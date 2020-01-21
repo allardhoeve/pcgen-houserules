@@ -1,0 +1,4 @@
+# Deities of Forgotten Realms
+# Deity Name			SORTKEY				Unique Key				Description of Deity/Title													FACT												FACTSET					Align
+Shaundakul					SORTKEY:01_Forgotten Realms	KEY:Shaundakul	DESC:Air, Portal, Trade, Travel, A wind-walking bearded man	FACT:Title|Shaundakul, Rider of the Winds	FACTSET:Pantheon|Forgotten Realms	ALIGN:CN	DOMAINS:Air, Chaos, Portal, Protection, Trade, Travel
+
