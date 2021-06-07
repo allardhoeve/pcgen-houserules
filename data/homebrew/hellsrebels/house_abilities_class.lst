@@ -1,3 +1,0 @@
-Public Speaker	KEY:Public Speaker ~ Missionary	CATEGORY:Special Ability	TYPE:SpecialQuality	DESC:A missionary gains Perform as a class skill. In addition, she is trained to project her voice with great skill and effect; the DC to hear her speak in difficult conditions is reduced by %1.|MAX(classlevel("Cleric") + CHA,0)	CSKILL:TYPE.Perform	SOURCEPAGE:p.40
-
-Insightful Scroll	KEY:Arcane Savant ~ Insightful Scroll	CATEGORY:Special Ability	TYPE:Special Quality	DESC:As a swift action, a arcane savant can alter a spell he’s casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability %1 times per day equal.|MAX(1,CL/3)
