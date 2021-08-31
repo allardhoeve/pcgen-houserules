@@ -24,7 +24,8 @@ COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 #EXTRAFILE:OGL.txt
 
 # Data Files
-ABILITY:house_abilities_archetypes.lst
+ABILITY:house_abilities_archetypes_brawler.lst
+ABILITY:house_abilities_archetypes_paladin.lst
 ABILITY:house_feats.lst
 EQUIPMENT:house_equip_wondrous.lst
 #

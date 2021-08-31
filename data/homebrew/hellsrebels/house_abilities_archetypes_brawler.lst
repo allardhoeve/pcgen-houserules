@@ -1,0 +1,5 @@
+# Archetypes
+Hinyasi	KEY:Brawler Archetype ~ Hinyasi	CATEGORY:Archetype	TYPE:Archetype.BrawlerArchetype	PRECLASS:1,Brawler=1	DESC:Hinyasi teach martial traditions centered on the use of farming tools and on other improvised weapons.	ABILITY:Special Ability|AUTOMATIC|Hinyasi ~ Humble Beginnings	ASPECT:Archetype Base Class|Brawler	COST:0
+
+Humble Beginnings	KEY:Hinyasi ~ Humble Beginnings	CATEGORY:Special Ability	TYPE:Brawler Class Features.SpecialQuality	DESC:A hinyasi gains her choice of Catch Off-Guard or Throw Anything as a bonus feat.	ABILITY:FEAT|AUTOMATIC|Catch Off-Guard
+
